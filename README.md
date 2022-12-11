@@ -3,3 +3,7 @@ The Levenshtein distance is a string metric that measures the difference between
 Levenshtein distances have been used for decades in applications ranging from spelling correction and web search suggestions to DNA analysis.
 
 <img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture1.png">
+
+<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture2.png">
+
+<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture3.png">
