@@ -7,3 +7,11 @@ Levenshtein distances have been used for decades in applications ranging from sp
 <img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture2.png">
 
 <img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture3.png">
+
+METHODOLOGY
+
+For example, the Levenshtein distance between the strings "kitten" and "sitting" is 3, because the following three edits are needed to transform "kitten" into "sitting":
+          
+1.Substitute 's' for 'k'
+2.Substitute 'i' for 'e'
+3.Insert 'g' at the end
