@@ -4,9 +4,9 @@ Levenshtein distances have been used for decades in applications ranging from sp
 
 <img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture1.png">
 
-<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture2.png">
+<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Output1.png">
 
-<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Picture3.png">
+<img width="882" alt="image" src="https://github.com/manjuv03/Levenshtein-Distance-Finder/blob/main/output/Output2.png">
 
 METHODOLOGY
 
